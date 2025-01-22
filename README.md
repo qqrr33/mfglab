@@ -8,3 +8,8 @@
 - txt, bmp, png, jpg, jpeg, onnx
 
 
+numpy==1.26.4 240206 < 240616
+pandas==2.2.2 240411
+torch==2.2.1 240223
+opencv-python==4.10.0.82
+
