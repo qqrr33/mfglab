@@ -4,5 +4,6 @@
 
 # rnd4mfg
 - research and development library useful in manufacturing.
+- numpy, pandas, csv, bmp, png, jpg, jpeg
 
 
