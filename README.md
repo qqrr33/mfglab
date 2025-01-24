@@ -13,3 +13,8 @@
 - torch==2.2.1 240223
 - opencv-python==4.10.0.82
 
+# set-up
+``` shell
+python -m venv _venv_mfglab
+
+```
