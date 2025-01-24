@@ -17,4 +17,10 @@
 ``` shell
 python -m venv _venv_mfglab
 
+.\_venv_mfglab\Scripts\activate
+
+python -m pip install --upgrade pip
+
+
+
 ```
