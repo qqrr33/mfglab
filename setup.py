@@ -7,10 +7,10 @@ setup(
     description='for manufacturing industry',
     author=__author__,
     author_email='uehoza98@gmail.com',
-    url='https://github.com/qqrr33/mfglab',
+    url='https://github.com/qqrr33/mfglab.git',
     install_requires=[],
     packages=find_packages(exclude=[]),
-    keywords=['mfglab', 'pypi'],
+    keywords=['mfglab', 'manufacturing'],
     python_requires='>=3.10',
     package_data={},
     zip_safe=False,
@@ -21,4 +21,6 @@ setup(
         'Programming Language :: Python :: 3.13',
     ],
 )
+
+
 
