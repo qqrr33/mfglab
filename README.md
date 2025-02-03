@@ -1,6 +1,6 @@
 # dev-env
-- win11
-- python 3.10.11
+- win 11 / ubuntu 22.04
+- python 3.10
 
 # introduce
 - research and development library useful in manufacturing.
@@ -20,7 +20,6 @@ python -m venv _venv_mfglab
 .\_venv_mfglab\Scripts\activate
 
 python -m pip install --upgrade pip
-
-
-
 ```
+
+
