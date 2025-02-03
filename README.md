@@ -7,7 +7,8 @@
 </br>
 
 # introduce
-- research and development library useful in manufacturing.
+- Research and development library useful in manufacturing.
+- 0.01 is better than 0 : This library is more useful than performance.
 - numpy, pandas, csv
 - txt, bmp, png, jpg, jpeg, onnx
 - object detection : yolo style
