@@ -1,5 +1,5 @@
 # dev-env
-- win 11 / ubuntu 22.04
+- win 10, 11 / ubuntu 22.04
 - cuda 11.8
 - python 3.10
 
