@@ -44,8 +44,6 @@ python -m venv _venv_mfglab
 # windows
 .\_venv_mfglab\Scripts\activate
 
-# linux
-
 python -m pip install --upgrade pip
 
 pip install -e .
