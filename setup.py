@@ -1,11 +1,10 @@
 from setuptools import setup, find_packages
-from mfglab import __version__, __author__
 
 setup(
     name='mfglab',
-    version=__version__,
+    version='0.1.0',
     description='for manufacturing industry',
-    author=__author__,
+    author='jaeho',
     author_email='uehoza98@gmail.com',
     url='https://github.com/qqrr33/mfglab.git',
     install_requires=[],

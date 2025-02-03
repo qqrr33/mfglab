@@ -35,16 +35,36 @@ pip install mfglab
 
 - edit mode
 ``` shell
+git clone https://github.com/qqrr33/mfglab.git
+
+cd mfglab
+
+python -m venv _venv_mfglab
+
+# windows
+.\_venv_mfglab\Scripts\activate
+
+# linux
+
+python -m pip install --upgrade pip
+
 pip install -e .
 ```
 
 </br>
 
-- raw mode : demo usage - module mode (ex. python mfglab_demo.demo)
+- raw mode : 삭제 예정
 ``` shell
+git clone https://github.com/qqrr33/mfglab.git
+
+cd mfglab
+
 python -m venv _venv_mfglab
 
+# windows
 .\_venv_mfglab\Scripts\activate
+
+# linux
 
 python -m pip install --upgrade pip
 
