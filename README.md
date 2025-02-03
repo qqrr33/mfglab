@@ -2,6 +2,7 @@
 - win 10, 11 / ubuntu 22.04
 - cuda 11.8
 - python 3.10
+- C# 4.8.1
 
 </br>
 
@@ -9,14 +10,18 @@
 - research and development library useful in manufacturing.
 - numpy, pandas, csv
 - txt, bmp, png, jpg, jpeg, onnx
+- object detection : yolo style
 
 </br>
 
 # requirements
+``` txt
 - numpy==1.26.4
 - pandas==2.2.2
 - opencv-python==4.10.0.82
-- torch==2.2.1
+- torch==2.2.2
+  - pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
+```
 
 </br>
 
@@ -35,7 +40,7 @@ pip install -e .
 
 </br>
 
-- raw mode
+- raw mode : demo usage - module mode (ex. python mfglab_demo.demo)
 ``` shell
 python -m venv _venv_mfglab
 
