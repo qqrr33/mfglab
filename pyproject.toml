@@ -10,10 +10,12 @@ authors = [
     {name = "jaeho", email = "uehoza74@outlook.com"}
 ]
 dependencies = [
-    "numpy<2.0.0"
+    "numpy<2.0.0",
+    "pandas",
+    "opencv-python"
 ]
 requires-python = ">=3.10"
-keywords = ["machine learning", "deep learning", "manufacturing"]
+keywords = ["shared memory", "deep learning", "machine learning", "manufacturing"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
@@ -22,3 +24,7 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/qqrr33/mfglab"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mfglab*"]
