@@ -1,17 +1,18 @@
+# introduce
+- shared_memory, object_detection, classfication
+- Research and development library useful in manufacturing.
+- 0.01 is better than 0 : This library is more useful than performance.
+- numpy, pandas, csv
+- txt, bmp, png, jpg, jpeg, onnx
+
+</br>
+
+- object detection : yolo style
 # dev-env
 - win 10, 11 / ubuntu 22.04
 - cuda 11.8
 - python 3.10
 - C# 4.8.1
-
-</br>
-
-# introduce
-- Research and development library useful in manufacturing.
-- 0.01 is better than 0 : This library is more useful than performance.
-- numpy, pandas, csv
-- txt, bmp, png, jpg, jpeg, onnx
-- object detection : yolo style
 
 </br>
 
