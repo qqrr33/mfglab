@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mfglab"
+version = "0.1.0"
+description = "shared_memory, deep_learning, machine_learning for manufacturing"
+authors = [
+    {name = "jaeho", email = "uehoza74@outlook.com"}
+]
+dependencies = [
+    "numpy<2.0.0"
+]
+requires-python = ">=3.10"
+keywords = ["machine learning", "deep learning", "manufacturing"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/qqrr33/mfglab"
