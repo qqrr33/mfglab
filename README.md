@@ -19,6 +19,8 @@
 # set-up
 - pip mode
 ``` shell
+python -m pip install --upgrade pip setuptools wheel
+
 pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
 
 pip install mfglab
@@ -37,7 +39,7 @@ python -m venv _venv_mfglab
 # windows
 .\_venv_mfglab\Scripts\activate
 
-python -m pip install --upgrade pip
+python -m pip install --upgrade pip setuptools wheel
 
 pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
 
