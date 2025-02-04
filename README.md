@@ -26,7 +26,7 @@ pip install mfglab
 
 </br>
 
-- git
+- edit mode
 ``` shell
 git clone https://github.com/qqrr33/mfglab.git
 
@@ -40,11 +40,6 @@ python -m venv _venv_mfglab
 python -m pip install --upgrade pip
 
 pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
-
-#setup mode
-pip install .
-
-or
 
 # edit mode
 pip install -e .
