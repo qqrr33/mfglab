@@ -1,5 +1,5 @@
 # introduce
-- Shared_memory, Deep_learning, Machine_learning
+- shared_memory, deep_learning, machine_learning for manufacturing.
 - Research and development library useful in manufacturing.
 - 0.01 is better than 0 : This library is more useful than performance.
 - numpy, pandas, csv
