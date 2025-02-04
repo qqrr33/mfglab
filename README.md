@@ -10,7 +10,7 @@
 
 </br>
 
-# use file format
+# use data format
 - numpy, pandas, csv
 - txt, bmp, png, jpg, jpeg, onnx
 - object detection : yolo style
