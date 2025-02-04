@@ -1,5 +1,5 @@
 # introduce
-- shared_memory, object_detection, classfication
+- Shared_memory, Deep_learning, Machine_learning
 - Research and development library useful in manufacturing.
 - 0.01 is better than 0 : This library is more useful than performance.
 - numpy, pandas, csv
